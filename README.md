@@ -9,7 +9,7 @@ This project was an attemp to create a chat app where multiple users can chat an
 - Discord username *lost_* Jeein Kim
 
 ## Demo Walk through
-<img src="demo.gif" width = 550><br>
+<img src="demo.gif" width = 300><br>
 
 ## Note:
 The project is not done as expected but we only manage to make the login authentication work and retreiving the name and email from the real time database.
